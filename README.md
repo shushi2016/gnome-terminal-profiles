@@ -13,6 +13,6 @@
 
 
 <h3> vivid-blue</h3>
-![alt vivid-blue](vivid-blue.png "vivid-blue")
+![alt vivid-blue](https://github.com/shushi2016/gnome-terminal-profiles/blob/master/vivid-blue.png | width=100)
 
 
